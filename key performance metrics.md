@@ -55,6 +55,7 @@ __12. Saturation Point:__
 
 ```
 These performance metrics provide a comprehensive view of how an application performs under different scenarios,
-enabling teams to identify and address performance issues, optimize resource usage, and ensure a satisfactory user experience.
-The selection of specific metrics depends on the nature of the application and the goals of the performance testing effort.
+enabling teams to identify and address performance issues, optimize resource usage, and ensure a satisfactory
+user experience. The selection of specific metrics depends on the nature of the application and the goals of
+the performance testing effort.
 ```
