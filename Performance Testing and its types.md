@@ -1,5 +1,4 @@
 ## What is Performance Testing?
-__Ans:__  
 - Performance testing is a type of software testing that evaluates the speed, responsiveness, stability, and overall performance of a system under a specific workload.
 - The goal is to identify and address performance bottlenecks, ensure that the application meets performance requirements, and deliver a satisfactory user experience.
 - Performance testing is crucial for applications and systems to function effectively, especially in scenarios where multiple users are accessing the system simultaneously.
